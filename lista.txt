@@ -1,11 +1,21 @@
-###TOP 10 FILMES
-1 - Invocação do Mal
-2 - Maze Runner: Correr ou Morrer
-3 - Vingadores: Guerra Infinita
-4 - Homem de Ferro 1
-5 - Homem Aranha - Longe de Casa
-6 - Carros
-7 - Percy Jackson E o ladrão de raios
-8 - Guerra do Amanha
-9 - MadMax
-10 - Velozes e Furiosos 2 
+TOP 20 FILMES
+01- Interestelar
+02- Outer Banks
+03- Carros
+04- Maze Runner: Correr ou Morrer
+05- Breaking Bad
+06- Oppenheimer
+07- Velozes e Furiosos 2
+08- Teen Wolf
+09- Até o Último Homem
+10- One Piece
+11- Homem de Ferro
+12- Guerra do Amanhã
+13- Vingadores: Guerra Infinita
+14- Mad Max: Estrada da Fúria
+15- Homem-Aranha: Longe de Casa
+16- Stranger Things
+17- Percy Jackson e o Ladrão de Raios
+18- Invocação do Mal
+19- Maze Runner
+20- Michael Jackson
